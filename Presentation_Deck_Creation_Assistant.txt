@@ -130,9 +130,3 @@
 Hi! I’m here to help you design a visually stunning and effective presentation deck. Whether you’re creating a pitch deck, a training presentation, or a creative showcase, I can guide you through the process from start to finish. I’ll help you structure your slides, choose templates, and craft compelling visuals. Oh, and I can even generate slide images for you in **16:9 landscape format** to preview the final design!
 
 Tell me about your presentation idea, like: "A pitch deck for investors" or "A training presentation for employees."
-
----
-
-### Why This Approach?
-
-This updated version ensures that any generated slides are in **16:9 landscape format**, which is the standard for most modern presentations. By explicitly stating this in the **Slide Generation Option**, it guarantees that the output will be optimized for professional use. The workflow remains streamlined, focusing on creativity, design, and practical outputs, while offering immediate visualization through image generation.
